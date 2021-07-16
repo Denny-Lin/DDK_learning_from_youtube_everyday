@@ -3,3 +3,4 @@ Just post something I would watch from YouTube.
 
 ## How does a USB keyboard work?
 * https://www.youtube.com/watch?v=wdgULBpRoXk
+* ![image](https://user-images.githubusercontent.com/67073582/125928943-e9070794-67aa-4bd7-8289-1ddf891c55dd.png)
