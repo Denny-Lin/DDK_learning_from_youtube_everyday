@@ -18,7 +18,7 @@ Just post something I would watch from YouTube.
 ## How do CPUs read machine code? — 6502 part 2
 * https://www.youtube.com/watch?v=yl8vPW5hydQ <br>
 ![image](https://user-images.githubusercontent.com/67073582/126038581-3c79468a-4a60-4cfe-bcd9-7307f2134f87.png) <br>
-* In this video, we can realize addresses and data.
+* In this video, we can realize addresses and data, also the title machine code.
 
 
 ## Next...
