@@ -1,9 +1,14 @@
-# How To Speak by Patrick Winston
+# DDK_learning_from_youtube_everyday
+Just post something I would watch from YouTube.
+
+## How To Speak by Patrick Winston
 * https://www.youtube.com/watch?v=Unzc731iCUY
 * It's from MIT.
 
-# DDK_learning_from_youtube_everyday
-Just post something I would watch from YouTube.
+## Do You Know How To Answer These Job Interview Questions?
+* https://www.youtube.com/watch?v=WfdtKbAJOmE
+* I think this vedio is so much helpful; and... I should watch it earily.
+* I got a lot of verbal offer but making some mistakes in the final,and that's why.
 
 ## How does a USB keyboard work?
 * https://www.youtube.com/watch?v=wdgULBpRoXk <br>
