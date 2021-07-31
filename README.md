@@ -7,7 +7,7 @@ Just post something I would watch from YouTube.
 
 ## Do You Know How To Answer These Job Interview Questions?
 * https://www.youtube.com/watch?v=WfdtKbAJOmE
-* I think this vedio is so much helpful; and... I should watch it earily.
+* I think this video is so much helpful; and... I should watch it earily.
 * I got a lot of verbal offers but making some mistakes in the final, and that's why.
 * I am too honest and that's why I have lots friends from different countries, but we cannot do the same thing when interviewing with HR.
 
