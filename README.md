@@ -1,3 +1,7 @@
+# How To Speak by Patrick Winston
+* https://www.youtube.com/watch?v=Unzc731iCUY
+* It's from MIT.
+
 # DDK_learning_from_youtube_everyday
 Just post something I would watch from YouTube.
 
