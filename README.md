@@ -8,7 +8,7 @@ Just post something I would watch from YouTube.
 ## Do You Know How To Answer These Job Interview Questions?
 * https://www.youtube.com/watch?v=WfdtKbAJOmE
 * I think this vedio is so much helpful; and... I should watch it earily.
-* I got a lot of verbal offer but making some mistakes in the final,and that's why.
+* I got a lot of verbal offers but making some mistakes in the final,and that's why.
 
 ## How does a USB keyboard work?
 * https://www.youtube.com/watch?v=wdgULBpRoXk <br>
