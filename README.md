@@ -1,6 +1,10 @@
 # DDK_learning_from_youtube_everyday
 Just post something I would watch from YouTube.
 
+## MWC 2021: Cristiano Amon on digital transformation and the 5G revolution
+* https://www.youtube.com/watch?v=hCDtFOahX4U
+* 5G.
+ 
 ## How To Speak by Patrick Winston
 * https://www.youtube.com/watch?v=Unzc731iCUY
 * It's from MIT.
