@@ -1,5 +1,5 @@
 # DDK_learning_from_youtube_everyday
-Just post something I would watch from YouTube.
+Just post something I have watched from YouTube.
 
 ## MWC 2021: Cristiano Amon on digital transformation and the 5G revolution
 * https://www.youtube.com/watch?v=hCDtFOahX4U
