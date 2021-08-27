@@ -1,6 +1,10 @@
 # DDK_learning_from_youtube_everyday
 Just post something I have watched from YouTube.
 
+## How To Speak by Patrick Winston
+* https://jmperezperez.com/solutions-engineer-facebook/
+* I have the courage to take on a challenge.
+
 ## MWC 2021: Cristiano Amon on digital transformation and the 5G revolution
 * https://www.youtube.com/watch?v=hCDtFOahX4U
 * 5G.
