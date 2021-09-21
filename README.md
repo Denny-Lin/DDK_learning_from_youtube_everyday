@@ -2,7 +2,7 @@
 Just post something I have watched from YouTube.
 
 ## How to Write Shellcode - Part 1: Setting up a development environment
-https://www.youtube.com/watch?v=0-_Wtz5L9ZY
+* https://www.youtube.com/watch?v=0-_Wtz5L9ZY
 * Today is Chinese's Moon Festival; however, we can take a few minutes to learn something interesting.
 
 ## The role of Solutions Engineer
